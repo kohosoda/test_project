@@ -1,3 +1,5 @@
 <?php
 echo "hello";
-echo "hello2";
+echo "hello";
+
+echo 1 + 4;
